@@ -31,7 +31,7 @@ All featured widgets are shown with the respective links to the official [Übers
 * [Load chart](http://tracesof.net/uebersicht-widgets/#loadchart)
   displays the 5m average load over time as a graph.
 * [Pic Display Widget](http://tracesof.net/uebersicht-widgets/#pic-display_widget)
-  simply puts a pic of your choice on your desktop. Can be extended to GIFs as well.
+  simply puts a pic of your choice on your desktop. Can be extended to GIFs as well. There's also a list of neat GIFs and their URL, with a reference to a wallpaper that fits nicely.
 * [Roundclock](http://tracesof.net/uebersicht-widgets/#roundClock)
   shows a neat looking analog clock.
 * [Spotify Current Track](http://tracesof.net/uebersicht-widgets/#Spotify-Current-Track)
